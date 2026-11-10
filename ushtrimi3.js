@@ -14,4 +14,4 @@ let mbetja = buxheti - pjesaPerPerson;
 
 console.log("Kostoja totale e udhëtimit është " + totali + " €.");
 console.log("Secili person duhet të paguajë " + pjesaPerPerson + " €.");
-console.log("Secilit person i mbeten " + mbetja.toFixed(2) + " € nga buxheti prej " + buxheti + " €.");
+console.log("Secilit person i mbeten " + mbetja + " € nga buxheti prej " + buxheti + " €.");
