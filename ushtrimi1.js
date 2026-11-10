@@ -15,4 +15,4 @@ console.log("FATURA E LIBRARISE");
 console.log("Librat: " + sasiaLibrave + " x " + cmimiLibrit + " € = " + kostoLibrave + " €");
 console.log("Fletoret: " + sasiaFletoreve + " x " + cmimiFletoreve + " € = " + kostoFletoreve + " €");
 console.log("Transporti: 2.50 €");
-console.log("TOTALI: " + totali.toFixed(2) + " €");
+console.log("TOTALI: " + totali + " €");
